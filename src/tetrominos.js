@@ -19,7 +19,7 @@ export const TETROMINOS = {
         shape: [
             [0, 'L', 0],
             [0, 'L', 0],
-            [0, 'L', 0],
+            [0, 'L', 'L'],
         ],
         color: '248, 162, 54', //hex #f8a236
     },

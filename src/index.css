@@ -1,5 +1,5 @@
 :root {
-  font-size: 16px;
+  font-size: 20px;
 }
 
 html,
@@ -14,4 +14,8 @@ body {
 @font-face {
   font-family: "Wallpoet", cursive;
   src: url("https://fonts.googleapis.com/css2?family=Wallpoet&display=swap");
+}
+
+.background {
+  background-image: url(../src/img/Tetris-bg.png);
 }
